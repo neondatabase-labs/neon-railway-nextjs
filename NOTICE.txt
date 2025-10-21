@@ -1,0 +1,58 @@
+Copyright (2024) Databricks, Inc.
+
+This Software includes software developed at Databricks (https://www.databricks.com/) and its use is subject to the included LICENSE file.
+
+This Software contains code from the following open source projects, licensed under the Apache 2.0 license:
+
+@neondatabase/serverless - https://github.com/neondatabase/serverless
+Copyright Neon Database, Inc.  All rights reserved.
+License - https://github.com/neondatabase/serverless/blob/main/LICENSE
+
+Next.js - https://github.com/vercel/next.js
+Copyright 2025 Vercel, Inc.  All rights reserved.
+License - https://github.com/vercel/next.js/blob/canary/license.md
+
+React - https://github.com/facebook/react
+Copyright Meta Platforms, Inc. and affiliates.  All rights reserved.
+License - https://github.com/facebook/react/blob/main/LICENSE
+
+React DOM - https://github.com/facebook/react
+Copyright Meta Platforms, Inc. and affiliates.  All rights reserved.
+License - https://github.com/facebook/react/blob/main/LICENSE
+
+@eslint/eslintrc - https://github.com/eslint/eslintrc
+Copyright OpenJS Foundation and contributors.  All rights reserved.
+License - https://github.com/eslint/eslintrc/blob/main/LICENSE
+
+@tailwindcss/postcss - https://github.com/tailwindlabs/tailwindcss
+Copyright Tailwind Labs, Inc.  All rights reserved.
+License - https://github.com/tailwindlabs/tailwindcss/blob/main/LICENSE
+
+@types/node - https://github.com/DefinitelyTyped/DefinitelyTyped
+Copyright DefinitelyTyped contributors.  All rights reserved.
+License - https://github.com/DefinitelyTyped/DefinitelyTyped/blob/master/LICENSE
+
+@types/react - https://github.com/DefinitelyTyped/DefinitelyTyped
+Copyright DefinitelyTyped contributors.  All rights reserved.
+License - https://github.com/DefinitelyTyped/DefinitelyTyped/blob/master/LICENSE
+
+@types/react-dom - https://github.com/DefinitelyTyped/DefinitelyTyped
+Copyright DefinitelyTyped contributors.  All rights reserved.
+License - https://github.com/DefinitelyTyped/DefinitelyTyped/blob/master/LICENSE
+
+ESLint - https://github.com/eslint/eslint
+Copyright OpenJS Foundation and contributors.  All rights reserved.
+License - https://github.com/eslint/eslint/blob/main/LICENSE
+
+eslint-config-next - https://github.com/vercel/next.js
+Copyright 2025 Vercel, Inc.  All rights reserved.
+License - https://github.com/vercel/next.js/blob/canary/license.md
+
+Tailwind CSS - https://github.com/tailwindlabs/tailwindcss
+Copyright Tailwind Labs, Inc.  All rights reserved.
+License - https://github.com/tailwindlabs/tailwindcss/blob/main/LICENSE
+
+TypeScript - https://github.com/microsoft/TypeScript
+Copyright Microsoft Corporation.  All rights reserved.
+License - https://github.com/microsoft/TypeScript/blob/main/LICENSE.txt
+
