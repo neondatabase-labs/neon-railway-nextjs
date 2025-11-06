@@ -2,7 +2,7 @@ Copyright (2024) Databricks, Inc.
 
 This Software includes software developed at Databricks (https://www.databricks.com/) and its use is subject to the included LICENSE file.
 
-This Software contains code from the following open source projects, licensed under the Apache 2.0 license:
+This Software contains code from the following open source projects:
 
 @neondatabase/serverless - https://github.com/neondatabase/serverless
 Copyright Neon Database, Inc.  All rights reserved.
