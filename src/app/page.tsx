@@ -65,7 +65,7 @@ export default function Home() {
         <ol className="font-mono list-inside list-decimal text-lg/6 text-center sm:text-left">
           <li className="mb-2 tracking-[-.01em]">
             <a
-              href={process.env.NEXT_NEON_LAUNCHPAD_CLAIM_URL}
+              href={process.env.NEXT_INSTAGRES_CLAIM_URL}
               rel="noopener noreferrer"
               target="_blank"
               className="hover:underline hover:underline-offset-4 dark:text-blue-400 text-blue-500 font-bold"
